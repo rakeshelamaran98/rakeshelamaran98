@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## Hello World! 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frakeshelamaran.tech%2F&psig=AOvVaw1MhBVJrbnVkajr3H8WsXo3&ust=1603990774312000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4u8Lh1-wCFQAAAAAdAAAAABAD" width="30px"></h2>
-
 <a href="https://twitter.com/RakeshElamaran3">
   <img align="left" alt="Rakesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -33,7 +31,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Rakesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Rakesh Elamaran
 - Cybersecurity Enthusiast | Bug Hunter - WAPT | Blogger
