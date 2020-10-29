@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 - Currently researching in Cloud and Android Security
 - I love to learn new tech
 - I Code a little debug a lot
-- Checkout My 100 Days Learning [Challenge](http://rakeshelamaran.tech/)
+- Checkout My 100 Days Learning [Challenge](https://github.com/rakeshelamaran98/100Daystolearnandgrow)
 
-⭐️ From [Rakesh Elamaran](http://rakeshelamaran.tech/)
+⭐️ From [Rakesh Elamaran](https://www.rakeshelamaran.tech/)
