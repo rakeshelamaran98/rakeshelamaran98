@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### I am Rakesh Elamaran
 - Cybersecurity Enthusiast | Bug Hunter - WAPT | Blogger
-- IT Security Associate Professional
+- Security Professional
 - Currently researching in Cloud and Android Security
 - I love to learn new tech
 - I Code a little debug a lot
