@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - I Code a little debug a lot
 - Checkout My 100 Days Learning [Challenge 2020](https://github.com/rakeshelamaran98/100Daystolearnandgrow)
 - 100Days Learning V2 [2021](https://github.com/rakeshelamaran98/100daysChallenge-v2)
-
+- 75Days Learning - ReStart75 
 ⭐️ From [Rakesh Elamaran](https://www.rakeshelamaran.tech/)
