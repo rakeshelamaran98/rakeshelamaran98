@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🔐 Cybersecurity Engineer | Application Security | Penetration Tester
 
 - 🎓 MSc Cybersecurity Engineering – University of Warwick
-- 🛡 CREST Practitioner Security Analyst (CPSA)
 - 💻 4+ years of experience in Application Security
 - 📚 Currently preparing for HTB CPTS
 
